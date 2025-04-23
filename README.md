@@ -1,2 +1,2 @@
 # Credit_Card_Financial_Dashboard
-Credit Card Transaction and Customer Dashboard using Power BI
+Power BI-based Dashboard for Tracking Credit Card Transactions and Customer Metrics
